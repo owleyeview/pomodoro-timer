@@ -7,3 +7,6 @@ Created for my SD247 Applied Computer Archetecture course
   Your browser does not support the video tag.
 </video>
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/aaNLFztmYck" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
